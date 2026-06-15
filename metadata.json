@@ -1,0 +1,6 @@
+{
+  "name": "Wild Atlantic Bean Café",
+  "description": "A modern, warm, and inviting multi-page web application for Wild Atlantic Bean, a cozy independent specialty coffee and good food café in Letterkenny, Co. Donegal, Ireland, featuring a custom Gemini conversation assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
